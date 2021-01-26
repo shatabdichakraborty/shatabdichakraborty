@@ -4,5 +4,6 @@
 ### Top Languages I've Worked on!
 ![Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shatabdichakraborty&layout=compact&theme=chartreuse-dark)
 
-### Hi there 👋
-
+### "Fix the cause, not the symptom." 
+![run](https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif)
+### "Make it work, make it right, make it fast"! 👋
